@@ -1,3 +1,6 @@
+> [!WARNING]  
+> The Instagram Basic Display API was shut down on the 4th of December 2024, rendering this project useless.
+
 # Instagram Gallery Worker
 
 This tool automatically manages and refreshes access tokens for the Instagram Basic Display API, and acts as a proxy layer for it. This makes it perfect for static or Jamstack-type sites.
